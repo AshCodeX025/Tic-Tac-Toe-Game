@@ -58,12 +58,6 @@ Contributions are welcome! If you'd like to propose improvements, bug fixes, or 
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 Enjoy playing and coding! If you like this project, feel free to ⭐️ star it and share with your friends!
 
 ---
